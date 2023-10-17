@@ -7,8 +7,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=Charan-Samsani&style=flat-square&color=blue" alt=""/>
   <h1>
-    Hey there
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3I4d2dyMmwzbHg1b2IxamVlNXVxeHdieWVkeHBxc2Z2aG5teXhqayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GQty4dYXeVkOeMzqVx/giphy.gif" width="30px"/>
+    Hey there <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3I4d2dyMmwzbHg1b2IxamVlNXVxeHdieWVkeHBxc2Z2aG5teXhqayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GQty4dYXeVkOeMzqVx/giphy.gif" width="30px"/>
   </h1>
 </div>
 <div align="center">
@@ -17,12 +16,52 @@
 
 ---
 
-👨‍💻 About Me :
+### 👨‍💻 About Me :
+
+I'm a devops enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> from INDIA.
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring the world of ♾️ DEVOPS.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems on HackerRank  <img src= "https://hrcdn.net/fcore/assets/work/header/hackerrank_logo-21e2867566.svg" width="15px"/>  and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Charan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/charan-s-045854194/)
+- :mailbox:You guys can reach me through [![Linkedin Badge](https://img.shields.io/badge/-Charan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/charan-s-045854194/)
+
+---
+
+### 🛠️ Languages and Tools :
+
+<div>
+  <div align="center">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" title="fedora" alt="fedora" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="ubuntu" alt="ubuntu" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="vim" alt="vim" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp
+  <div/>
+  <div align="center">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg" title="tomcat" alt="tomcat" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="jenkins" alt="jenkins" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" title="apache" alt="apache" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="nginx" alt="nginx" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="k8s" alt="k8s" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="ansible" alt="ansible" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" title="grafana" alt="grafana" width="40" height="40"/>&nbsp
+  <div/>
+  <div align="center">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/groovy/groovy-original.svg" title="groovy" alt="groovy" width="40" height="40"/>&nbsp;
+    <img src="https://www.flaticon.com/free-icon/yaml_9749056?term=yaml&page=1&position=1&origin=tag&related_id=9749056" title="yml" alt="yml" width="40" height="40"/>&nbsp;
+    <img src="" title="" alt="" width="40" height="40"/>&nbsp;
+    <img src="" title="" alt="" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html" alt="html" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
+
+<div/>
+
+<div/>
+
