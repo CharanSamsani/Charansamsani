@@ -19,9 +19,9 @@
 
 ### 👨‍💻 About Me :
 
-I'm a 22 year old devops enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> from Hyderabad. Eagerly waiting to complete my Btech and get into the world 🌏 of DEVOPS. 
+I'm a 22 year old DevOps enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> from Hyderabad. I eagerly await to complete my Btech and get into the world 🌏 of DEVOPS. 
 
-- :telescope: I'm currently placticing AWS devops and contributing to my own small projects. You can see them right below, all the repos are public except for some personal ones 😏.
+- :telescope: I'm currently placticing AWS DevOps and contributing to my own small projects. You can see them right below, all the repos are public except for some personal ones 😏.
   
 - :seedling: Exploring the world of ♾️ DEVOPS.
 
