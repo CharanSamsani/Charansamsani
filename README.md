@@ -1,4 +1,9 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3I4d2dyMmwzbHg1b2IxamVlNXVxeHdieWVkeHBxc2Z2aG5teXhqayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GQty4dYXeVkOeMzqVx/giphy.gif" width="100"/>
+  <div id="badges">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>  
+  </div>
+</div>
 
 <!--
 **Charan-Samsani/Charan-samsani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
