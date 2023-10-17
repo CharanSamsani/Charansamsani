@@ -20,7 +20,7 @@
 
 I'm a 22 year old devops enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> from Hyderabad. Eagerly waiting to complete my Btech and get into the world 🌏 of DEVOPS. 
 
-- :telescope: I'm currently placticing AWS devops and contributing my own small projects. You can see them right below, all the repos are public except for some personal ones 😏.
+- :telescope: I'm currently placticing AWS devops and contributing to my own small projects. You can see them right below, all the repos are public except for some personal ones 😏.
   
 - :seedling: Exploring the world of ♾️ DEVOPS.
 
@@ -33,6 +33,7 @@ I'm a 22 year old devops enthusiast <img src="https://media.giphy.com/media/WUlp
 ### 🛠️ Languages and Tools :
 
 <div>
+  
   <div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" title="fedora" alt="fedora" width="40" height="40"/>&nbsp;
@@ -40,6 +41,7 @@ I'm a 22 year old devops enthusiast <img src="https://media.giphy.com/media/WUlp
     <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="vim" alt="vim" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp
   <div/>
+    
   <div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg" title="tomcat" alt="tomcat" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
@@ -70,6 +72,7 @@ I'm a 22 year old devops enthusiast <img src="https://media.giphy.com/media/WUlp
     <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="slack" alt="slack" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
   <div/>
+    
   <div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="illustrator" alt="illustrator" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" title="inkscape" alt="inkscape" width="40" height="40"/>&nbsp;
@@ -78,6 +81,7 @@ I'm a 22 year old devops enthusiast <img src="https://media.giphy.com/media/WUlp
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="40" height="40"/>&nbsp
   <div/>
+    
 <div/>
 
 ---
