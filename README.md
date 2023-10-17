@@ -80,3 +80,20 @@ I'm a devops enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
   <div/>
 <div/>
 
+---
+
+<div align="left">
+  
+### 🔥My stats : 
+
+</div>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Charan-Samsani&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=600)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Charan-Samsani&layout=compact&theme=vision-friendly-dark&width=600)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
