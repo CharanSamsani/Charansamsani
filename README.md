@@ -6,13 +6,13 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=Charan-Samsani&style=flat-square&color=blue" alt=""/>
-  <h1>
-    Hey there 👋
+  <h1 align="center">
+    Hey there 👋 everyone !
   </h1>
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif" width="900" height="100"/>
-  <img src="https://media.giphy.com/media/VPpkvgTIJ817dfQOXI/giphy.gif" width="900" height="250"/>
+  <!--<img src="https://media.giphy.com/media/VPpkvgTIJ817dfQOXI/giphy.gif" width="900" height="250"/>-->
 </div>
 
 ---
