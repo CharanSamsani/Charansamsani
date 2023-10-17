@@ -7,7 +7,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=Charan-Samsani&style=flat-square&color=blue" alt=""/>
   <h1>
-    Hey there <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3I4d2dyMmwzbHg1b2IxamVlNXVxeHdieWVkeHBxc2Z2aG5teXhqayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GQty4dYXeVkOeMzqVx/giphy.gif" width="30px"/>
+    Hey there 👋
   </h1>
 </div>
 <div align="center">
@@ -18,13 +18,13 @@
 
 ### 👨‍💻 About Me :
 
-I'm a devops enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> from INDIA.
+I'm a 22 year old devops enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> from Hyderabad. Eagerly waiting to complete my Btech and get into the world 🌏 of DEVOPS. 
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
+- :telescope: I'm currently placticing AWS devops and contributing my own small projects. You can see them right below, all the repos are public except for some personal ones 😏.
+  
 - :seedling: Exploring the world of ♾️ DEVOPS.
 
-- :zap: In my free time, I solve problems on HackerRank  <img src= "https://hrcdn.net/fcore/assets/work/header/hackerrank_logo-21e2867566.svg" width="15px"/>  and read tech articles.
+- :zap: In my free time, I solve problems on HackerRank  <img src= "https://hrcdn.net/fcore/assets/work/header/hackerrank_logo-21e2867566.svg" width="15px"/>  and doodle some illustarions either 3D or 2D. Sometimes i feel too lazy to even move, then i will read some tech articles.
 
 - :mailbox:You guys can reach me through [![Linkedin Badge](https://img.shields.io/badge/-Charan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/charan-s-045854194/)
 
@@ -69,7 +69,7 @@ I'm a devops enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="slack" alt="slack" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
-<div/>
+  <div/>
   <div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="illustrator" alt="illustrator" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" title="inkscape" alt="inkscape" width="40" height="40"/>&nbsp;
