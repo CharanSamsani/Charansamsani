@@ -67,9 +67,9 @@ I'm a 22 year old DevOps enthusiast <img src="https://media.giphy.com/media/WUlp
   <div align="center">
     <img src="https://www.cdnlogo.com/logos/a/19/aws.svg" title="aws" alt="aws" width="40" height="40"/>&nbsp;
     <img src="https://www.cdnlogo.com/logos/a/12/azure.svg" title="azure" alt="azure" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="slack" alt="slack" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
+     title="git" alt="git" width="40" height="40"/>&nbsp;
+     title="slack" alt="slack" width="40" height="40"/>&nbsp;
+     title="jira" alt="jira" width="40" height="40"/>&nbsp
   <div/>
     
   <div align="center">
