@@ -36,17 +36,17 @@ I'm a 22 year old DevOps enthusiast <img src="https://media.giphy.com/media/WUlp
 <div>
   
   <div align="center">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" title="fedora" alt="fedora" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="ubuntu" alt="ubuntu" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="vim" alt="vim" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp
+    <img src="https://www.cdnlogo.com/logos/l/6/linux-tux.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+    <img src="https://www.cdnlogo.com/logos/f/2/fedora.svg" title="fedora" alt="fedora" width="40" height="40"/>&nbsp;
+    <img src="https://www.cdnlogo.com/logos/u/89/ubuntu.svg" title="ubuntu" alt="ubuntu" width="40" height="40"/>&nbsp;
+    <img src="https://www.cdnlogo.com/logos/v/69/vim.svg" title="vim" alt="vim" width="40" height="40"/>&nbsp;
+    <img src="https://www.cdnlogo.com/logos/b/16/bash.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp
   <div/>
     
   <div align="center">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg" title="tomcat" alt="tomcat" width="40" height="40"/>&nbsp;
+    <img src="https://www.cdnlogo.com/logos/t/39/tomcat.svg" title="tomcat" alt="tomcat" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="jenkins" alt="jenkins" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" title="apache" alt="apache" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="nginx" alt="nginx" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="k8s" alt="k8s" width="40" height="40"/>&nbsp;
@@ -74,7 +74,7 @@ I'm a 22 year old DevOps enthusiast <img src="https://media.giphy.com/media/WUlp
     
   <div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="illustrator" alt="illustrator" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" title="inkscape" alt="inkscape" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" title="Inkscape" alt="Inkscape" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="blender" alt="blender" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/maya/maya-original.svg" title="maya" alt="maya" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
