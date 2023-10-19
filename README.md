@@ -36,7 +36,7 @@ I'm a 22-year-old DevOps enthusiast <img src="https://media.giphy.com/media/WUlp
 <div>
   
   <div align="center">
-    <img src="https://www.cdnlogo.com/logos/l/6/linux-tux.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+    <img src="https://www.cdnlogo.com/logos/l/11/linux.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
     <img src="https://www.cdnlogo.com/logos/f/2/fedora.svg" title="fedora" alt="fedora" width="40" height="40"/>&nbsp;
     <img src="https://www.cdnlogo.com/logos/u/89/ubuntu.svg" title="ubuntu" alt="ubuntu" width="40" height="40"/>&nbsp;
     <img src="https://www.cdnlogo.com/logos/v/69/vim.svg" title="vim" alt="vim" width="40" height="40"/>&nbsp;
@@ -67,18 +67,18 @@ I'm a 22-year-old DevOps enthusiast <img src="https://media.giphy.com/media/WUlp
   <div align="center">
     <img src="https://www.cdnlogo.com/logos/a/19/aws.svg" title="aws" alt="aws" width="40" height="40"/>&nbsp;
     <img src="https://www.cdnlogo.com/logos/a/12/azure.svg" title="azure" alt="azure" width="40" height="40"/>&nbsp;
-     title="git" alt="git" width="40" height="40"/>&nbsp;
-     title="slack" alt="slack" width="40" height="40"/>&nbsp;
-     title="jira" alt="jira" width="40" height="40"/>&nbsp
+    <img src="https://www.cdnlogo.com/logos/g/24/git-bash.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
+    <img src="https://www.cdnlogo.com/logos/s/40/slack-new.svg" title="slack" alt="slack" width="40" height="40"/>&nbsp;
+    <img src="https://www.cdnlogo.com/logos/j/28/jira.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
   <div/>
     
   <div align="center">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="illustrator" alt="illustrator" width="40" height="40"/>&nbsp;
+    <img src="https://www.cdnlogo.com/logos/a/67/adobe-illustrator-cc-icon.svg" title="illustrator" alt="illustrator" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" title="Inkscape" alt="Inkscape" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="blender" alt="blender" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/maya/maya-original.svg" title="maya" alt="maya" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="40" height="40"/>&nbsp
+    <img src="https://www.cdnlogo.com/logos/b/32/blender.svg" title="blender" alt="blender" width="40" height="40"/>&nbsp;
+    <img src="https://www.cdnlogo.com/logos/m/99/maya-2017.svg" title="maya" alt="maya" width="40" height="40"/>&nbsp;
+    <img src="https://www.cdnlogo.com/logos/f/43/figma.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
+    <img src="https://www.cdnlogo.com/logos/c/41/canva.svg" title="canva" alt="canva" width="40" height="40"/>&nbsp
   <div/>
     
 <div/>
