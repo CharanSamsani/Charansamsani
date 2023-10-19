@@ -19,13 +19,13 @@
 
 ### 👨‍💻 About Me :
 
-I'm a 22 year old DevOps enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> from Hyderabad. I eagerly await to complete my Btech and get into the world 🌏 of DEVOPS. 
+I'm a 22-year-old DevOps enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> from Hyderabad. I eagerly await completing my Btech and entering the world 🌏 of DEVOPS. 
 
-- :telescope: I'm currently placticing AWS DevOps and contributing to my own small projects. You can see them right below, all the repos are public except for some personal ones 😏.
+- :telescope: I'm practicing AWS DevOps and contributing to my small projects. You can see them right below, all the repos are public except for some personal ones 😏.
   
 - :seedling: Exploring the world of ♾️ DEVOPS.
 
-- :zap: In my free time, I solve problems on HackerRank  <img src= "https://hrcdn.net/fcore/assets/work/header/hackerrank_logo-21e2867566.svg" width="15px"/>  and doodle some illustarions either 3D or 2D. Sometimes i feel too lazy to even move, then i will read some tech articles.
+- :zap: In my free time, I solve problems on HackerRank  <img src= "https://hrcdn.net/fcore/assets/work/header/hackerrank_logo-21e2867566.svg" width="15px"/>  and doodle some illustarions either 3D or 2D. Sometimes I feel too lazy even to move, so I will read some tech articles.
 
 - :mailbox:You guys can reach me through [![Linkedin Badge](https://img.shields.io/badge/-Charan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/charan-s-045854194/)
 
@@ -45,13 +45,13 @@ I'm a 22 year old DevOps enthusiast <img src="https://media.giphy.com/media/WUlp
     
   <div align="center">
     <img src="https://www.cdnlogo.com/logos/t/39/tomcat.svg" title="tomcat" alt="tomcat" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" title="apache" alt="apache" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="nginx" alt="nginx" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="k8s" alt="k8s" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="ansible" alt="ansible" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" title="grafana" alt="grafana" width="40" height="40"/>&nbsp
+    <img src="https://www.cdnlogo.com/logos/d/41/docker.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
+    <img src="https://www.cdnlogo.com/logos/j/95/jenkins.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
+    <img src="https://www.cdnlogo.com/logos/a/87/apache.svg" title="apache" alt="apache" width="40" height="40"/>&nbsp;
+    <img src="https://www.cdnlogo.com/logos/n/74/nginx.svg" title="nginx" alt="nginx" width="40" height="40"/>&nbsp;
+    < title="k8s" alt="k8s" width="40" height="40"/>&nbsp;
+    <img src="https://www.cdnlogo.com/logos/a/51/ansible.svg" title="ansible" alt="ansible" width="40" height="40"/>&nbsp;
+    <img src="https://www.cdnlogo.com/logos/g/64/grafana.svg" title="grafana" alt="grafana" width="40" height="40"/>&nbsp
   <div/>
     
   <div align="center">
