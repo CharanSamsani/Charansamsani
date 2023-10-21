@@ -40,7 +40,7 @@ I'm a 22-year-old DevOps enthusiast <img src="https://media.giphy.com/media/WUlp
     <img src="https://www.cdnlogo.com/logos/f/2/fedora.svg" title="fedora" alt="fedora" width="40" height="40"/>&nbsp;
     <img src="https://www.cdnlogo.com/logos/u/89/ubuntu.svg" title="ubuntu" alt="ubuntu" width="40" height="40"/>&nbsp;
     <img src="https://www.cdnlogo.com/logos/v/69/vim.svg" title="vim" alt="vim" width="40" height="40"/>&nbsp;
-    <img src="https://www.cdnlogo.com/logos/b/16/bash.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp
+    <img src="https://www.cdnlogo.com/logos/b/16/bash.svg" title="bash" alt="bash" width="60" height="60"/>&nbsp
   <div/>
     
   <div align="center">
