@@ -7,7 +7,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=Charan-Samsani&style=flat-square&color=blue" alt=""/>
   <h1 align="center">
-    Hey there 👋 everyone !
+    Hey there 👋 
   </h1>
 </div>
 <div align="center">
