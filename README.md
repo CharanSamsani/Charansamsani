@@ -50,9 +50,9 @@ I'm a 22-year-old DevOps enthusiast <img src="https://media.giphy.com/media/WUlp
     <img src="https://www.cdnlogo.com/logos/a/87/apache.svg" title="maven" alt="maven" width="40" height="40"/>&nbsp;
     <img src="https://www.cdnlogo.com/logos/s/5/sonarsource.svg" title="sonarqube" alt="sonarqube" width="40" height="40"/>&nbsp;
     <img src="https://www.cdnlogo.com/logos/n/74/nginx.svg" title="nginx" alt="nginx" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/930f0136d96f0a65c1de5278be875415d6fbe610/icons/kubernetes/kubernetes-plain.svg" title="k8s" alt="k8s" width="40" height="40"/>&nbsp;
-    <img src="https://www.cdnlogo.com/logos/a/51/ansible.svg" title="ansible" alt="ansible" width="40" height="40"/>&nbsp;
-    <img src="https://www.cdnlogo.com/logos/g/64/grafana.svg" title="grafana" alt="grafana" width="40" height="40"/>&nbsp
+    <img src="https://github.com/devicons/devicon/blob/930f0136d96f0a65c1de5278be875415d6fbe610/icons/kubernetes/kubernetes-plain.svg" title="k8s" alt="k8s" width="40" height="40"/>&nbsp
+    <!--<img src="https://www.cdnlogo.com/logos/a/51/ansible.svg" title="ansible" alt="ansible" width="40" height="40"/>&nbsp;
+    <img src="https://www.cdnlogo.com/logos/g/64/grafana.svg" title="grafana" alt="grafana" width="40" height="40"/>&nbsp -->
   <div/>
     
   <div align="center">
