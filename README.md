@@ -92,9 +92,9 @@ I'm a 22-year-old DevOps enthusiast <img src="https://media.giphy.com/media/WUlp
 
 </div>
 
-[![GitHub Streak](https://github-readme-streak-stats-livid-eight.vercel.app?user=Charan-Samsani&theme=carbonfox&border_radius=10&card_width=600&fire=EB5454&ring=EB5454)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-livid-eight.vercel.app?user=CharanSamsani&theme=carbonfox&border_radius=10&card_width=600&fire=EB5454&ring=EB5454)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Charan-Samsani&layout=compact&theme=vision-friendly-dark&width=600)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharanSamsani&layout=compact&theme=vision-friendly-dark&width=600)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
