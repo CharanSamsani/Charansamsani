@@ -4,7 +4,7 @@
     <a href="https://www.linkedin.com/in/charan-s-045854194/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> 
     </a>
-  </div> 
+  </div>
   <img src="https://komarev.com/ghpvc/?username=Charan-Samsani&style=flat-square&color=blue" alt=""/>
   <h1 align="center">
     Hey there 👋 
