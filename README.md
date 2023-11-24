@@ -46,7 +46,7 @@ I'm a 22-year-old DevOps enthusiast <img src="https://media.giphy.com/media/WUlp
   <div align="center">
     <img src="https://www.cdnlogo.com/logos/t/39/tomcat.svg" title="tomcat" alt="tomcat" width="40" height="40"/>&nbsp;
     <img src="https://www.cdnlogo.com/logos/d/41/docker.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
-    <img src="https://www.cdnlogo.com/logos/j/95/jenkins.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
+    <img src="https://www.cdnlogo.com/logos/j/95/jenkins.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp; 
     <img src="https://www.cdnlogo.com/logos/a/87/apache.svg" title="maven" alt="maven" width="40" height="40"/>&nbsp;
     <img src="https://www.cdnlogo.com/logos/s/5/sonarsource.svg" title="sonarqube" alt="sonarqube" width="40" height="40"/>&nbsp;
     <img src="https://www.cdnlogo.com/logos/n/74/nginx.svg" title="nginx" alt="nginx" width="40" height="40"/>&nbsp;
