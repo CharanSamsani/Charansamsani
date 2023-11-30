@@ -23,7 +23,7 @@ I'm a 22-year-old DevOps enthusiast <img src="https://media.giphy.com/media/WUlp
 
 - :telescope: I'm practicing AWS DevOps and contributing to my small projects. You can see them right below, all the repos are public except for some personal ones 😏.
   
-- :seedling: Exploring the world of ♾️ DEVOPS.
+- :seedling: Exploring the world of ♾️ DEVOPS. 
  
 - :zap: In my free time, I solve problems on HackerRank  <img src= "https://hrcdn.net/fcore/assets/work/header/hackerrank_logo-21e2867566.svg" width="15px"/>  and doodle some illustarions either 3D or 2D. Sometimes I feel too lazy even to move, so I will read some tech articles.
  
