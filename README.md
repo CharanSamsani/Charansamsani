@@ -10,7 +10,7 @@
     Hey there 👋 
   </h1>
 </div> 
-<div align="center"> 
+<div align="center">
   <img src="https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif" width="900" height="100"/>
   <!--<img src="https://media.giphy.com/media/VPpkvgTIJ817dfQOXI/giphy.gif" width="900" height="250"/>--> 
 </div>
