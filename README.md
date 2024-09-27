@@ -45,8 +45,8 @@ I'm a 23-year-old DevOps enthusiast <img src="https://media.giphy.com/media/WUlp
   <div/>
      
   <div align="center">
-    <img src="https://www.cdnlogo.com/logos/t/39/tomcat.svg" title="tomcat" alt="tomcat" width="40" height="40"/>&nbsp;
-    <img src="https://www.cdnlogo.com/logos/d/41/docker.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
+    <img src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-icon.svg" title="tomcat" alt="tomcat" width="40" height="40"/>&nbsp;
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" title="docker" alt="docker" width="45" height="45"/>&nbsp;
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp; 
     <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" title="maven" alt="maven" width="40" height="40"/>&nbsp;
     <img src="https://www.cdnlogo.com/logos/s/5/sonarsource.svg" title="sonarqube" alt="sonarqube" width="40" height="40"/>&nbsp;
@@ -59,7 +59,7 @@ I'm a 23-year-old DevOps enthusiast <img src="https://media.giphy.com/media/WUlp
   <div align="center">
     <!--<img src="https://github.com/devicons/devicon/blob/master/icons/groovy/groovy-original.svg" title="groovy" alt="groovy" width="50" height="50"/>&nbsp;
     <img src="https://www.cdnlogo.com/logos/j/89/json.svg" title="json" alt="json" width="40" height="40"/>&nbsp;-->
-    <img src="https://www.cdnlogo.com/logos/p/3/python.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
+    <img src="https://www.cdnlogo.com/logos/p/3/python.svg" title="python" alt="python" width="38" height="38"/>&nbsp;
     <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="java" alt="java" width="40" height="40"/>&nbsp;
     <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" title="html" alt="html" width="40" height="40"/>&nbsp;
     <img src="https://www.cdnlogo.com/logos/j/44/javascript.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
@@ -82,9 +82,9 @@ I'm a 23-year-old DevOps enthusiast <img src="https://media.giphy.com/media/WUlp
     <img src="https://www.cdnlogo.com/logos/a/67/adobe-illustrator-cc-icon.svg" title="illustrator" alt="illustrator" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" title="Inkscape" alt="Inkscape" width="40" height="40"/>&nbsp;
     <img src="https://www.cdnlogo.com/logos/b/32/blender.svg" title="blender" alt="blender" width="40" height="40"/>&nbsp;
-    <img src="https://www.cdnlogo.com/logos/m/99/maya-2017.svg" title="maya" alt="maya" width="40" height="40"/>&nbsp;
-    <img src="https://www.cdnlogo.com/logos/f/43/figma.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
-    <img src="https://www.cdnlogo.com/logos/c/41/canva.svg" title="canva" alt="canva" width="40" height="40"/>&nbsp
+    <img src="https://www.cdnlogo.com/logos/m/99/maya-2017.svg" title="maya" alt="maya" width="36" height="36"/>&nbsp;
+    <img src="https://www.cdnlogo.com/logos/f/43/figma.svg" title="figma" alt="figma" width="36" height="36"/>&nbsp;
+    <img src="https://www.cdnlogo.com/logos/c/41/canva.svg" title="canva" alt="canva" width="38" height="38"/>&nbsp
   <div/>
     
 <div/>
