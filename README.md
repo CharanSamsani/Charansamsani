@@ -14,7 +14,7 @@
 ---
 
 <div align="center">
-  <img src="assets/CHARAN_SAMSANI 10fps.gif" width="1100" height="250"/>
+  <img src="assets/CHARAN_SAMSANI 10fps.gif" width="1100" height="200"/>
   <!--<img src="https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif" width="900" height="100"/>  
   <img src="https://media.giphy.com/media/VPpkvgTIJ817dfQOXI/giphy.gif" width="900" height="250"/>--> 
 </div> 
