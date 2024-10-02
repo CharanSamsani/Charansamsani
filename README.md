@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=Charan-Samsani&style=flat-square&color=blue" alt=""/>
   <h1 align="center">
     Hey there 👋 
-  </h1> 
+  </h1>  
 </div>  
 
 ---
