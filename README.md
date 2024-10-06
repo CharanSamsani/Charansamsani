@@ -35,7 +35,7 @@ I'm a 23-year-old DevOps enthusiast <img src="https://media.giphy.com/media/WUlp
 
 ---
 
-### 🛠️ Languages and Tools :  
+### 🛠️ Languages and Tools : 
 
 <div>
   
