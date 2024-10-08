@@ -68,7 +68,7 @@ I'm a 23-year-old DevOps enthusiast <img src="https://media.giphy.com/media/WUlp
     <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" title="html" alt="html" width="40" height="40"/>&nbsp;
     <img src="https://www.cdnlogo.com/logos/j/44/javascript.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
     <img src="https://www.cdnlogo.com/logos/c/18/css.svg" title="css" alt="css" width="40" height="40"/>&nbsp;
-    <img src="https://www.cdnlogo.com/logos/b/74/bootstrap-5.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+    <img src="https://www.cdnlogo.com/logos/b/74/bootstrap-5.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp; 
     <img src="https://www.cdnlogo.com/logos/r/63/react.svg" title="reactJS" alt="reactJS" width="40" height="40"/>&nbsp
   <div/>
     
