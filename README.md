@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3I4d2dyMmwzbHg1b2IxamVlNXVxeHdieWVkeHBxc2Z2aG5teXhqayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GQty4dYXeVkOeMzqVx/giphy.gif" width="150"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/charan-s-045854194/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> 
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>  
     </a> 
   </div>
   <img src="https://komarev.com/ghpvc/?username=Charan-Samsani&style=for-the-badge&color=red&abbreviated=true" alt=""/>
