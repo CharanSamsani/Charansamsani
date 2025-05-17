@@ -39,7 +39,6 @@ I'm a 23-year-old DevOps enthusiast <img src="https://media.giphy.com/media/WUlp
 ### 🛠️ Tools and Languages : 
 
 <div>
-  
   <div align="center">
     <img src="https://www.cdnlogo.com/logos/l/11/linux.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
     <!--<img src="https://www.cdnlogo.com/logos/f/2/fedora.svg" title="fedora" alt="fedora" width="40" height="40"/>&nbsp;-->
