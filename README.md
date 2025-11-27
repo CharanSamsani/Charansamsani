@@ -105,6 +105,8 @@ I'm a 23-year-old DevOps enthusiast <img src="https://media.giphy.com/media/WUlp
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharanSamsani&layout=compact&theme=vision-friendly-dark&width=600)](https://github.com/anuraghazra/github-readme-stats)
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6053703" style='border:none;'></iframe>
+
 
 
 
