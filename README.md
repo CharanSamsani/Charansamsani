@@ -39,55 +39,111 @@ I'm a **24-year-old** Java Backend & DevOps enthusiast <img src="https://media.g
 
 ### 🛠️ Tools and Languages : 
 
-<div align="center">
-  <div>
-    <img src="https://www.cdnlogo.com/logos/l/11/linux.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-    <img src="https://www.cdnlogo.com/logos/u/89/ubuntu.svg" title="ubuntu" alt="ubuntu" width="40" height="40"/>&nbsp;
-    <img src="https://www.cdnlogo.com/logos/v/69/vim.svg" title="vim" alt="vim" width="40" height="40"/>&nbsp;
-    <img src="https://img.icons8.com/color/48/bash.png" title="bash" alt="bash" width="45" height="45"/>&nbsp;
-    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
-  </div>
-     
-  <div>
-    <img src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-icon.svg" title="tomcat" alt="tomcat" width="40" height="40"/>&nbsp;
-    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" title="docker" alt="docker" width="45" height="45"/>&nbsp;
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp; 
-    <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" title="maven" alt="maven" width="40" height="40"/>&nbsp;
-    <img src="https://www.cdnlogo.com/logos/s/5/sonarsource.svg" title="sonarqube" alt="sonarqube" width="40" height="40"/>&nbsp;
-    <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" title="nginx" alt="nginx" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/930f0136d96f0a65c1de5278be875415d6fbe610/icons/kubernetes/kubernetes-plain.svg" title="k8s" alt="k8s" width="40" height="40"/>&nbsp
-  </div>
-    
-  <div> 
-    <img src="https://www.cdnlogo.com/logos/p/3/python.svg" title="python" alt="python" width="38" height="38"/>&nbsp;
-    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="java" alt="java" width="40" height="40"/>&nbsp;
-    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" title="html" alt="html" width="40" height="40"/>&nbsp;
-    <img src="https://www.cdnlogo.com/logos/j/44/javascript.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
-    <img src="https://www.cdnlogo.com/logos/c/18/css.svg" title="css" alt="css" width="40" height="40"/>&nbsp;
-    <img src="https://www.cdnlogo.com/logos/b/74/bootstrap-5.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp; 
-    <img src="https://www.cdnlogo.com/logos/r/63/react.svg" title="reactJS" alt="reactJS" width="40" height="40"/>&nbsp
-  </div>
-    
-  <div>
-    <img src="https://www.cdnlogo.com/logos/a/19/aws.svg" title="aws" alt="aws" width="40" height="40"/>&nbsp;
-    <img src="https://www.cdnlogo.com/logos/a/12/azure.svg" title="azure" alt="azure" width="40" height="40"/>&nbsp;
-    <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp;
-    <img src="https://www.cdnlogo.com/logos/g/24/git-bash.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
-    <img src="https://www.cdnlogo.com/logos/s/91/spring.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-    <img src="https://www.cdnlogo.com/logos/s/40/slack-new.svg" title="slack" alt="slack" width="40" height="40"/>&nbsp;
-    <img src="https://www.cdnlogo.com/logos/j/28/jira.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
-  </div>
-    
-  <div>
-    <img src="https://www.cdnlogo.com/logos/a/67/adobe-illustrator-cc-icon.svg" title="illustrator" alt="illustrator" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" title="Inkscape" alt="Inkscape" width="40" height="40"/>&nbsp;
-    <img src="https://www.cdnlogo.com/logos/b/32/blender.svg" title="blender" alt="blender" width="40" height="40"/>&nbsp;
-    <img src="https://www.cdnlogo.com/logos/m/99/maya-2017.svg" title="maya" alt="maya" width="36" height="36"/>&nbsp;
-    <img src="https://www.cdnlogo.com/logos/f/43/figma.svg" title="figma" alt="figma" width="36" height="36"/>&nbsp;
-    <img src="https://www.cdnlogo.com/logos/c/41/canva.svg" title="canva" alt="canva" width="38" height="38"/>&nbsp
-  </div>
-    
-</div>
+<p align="center">
+  <img src="https://www.cdnlogo.com/logos/l/11/linux.svg" height="40"/>
+  <img src="https://www.cdnlogo.com/logos/u/89/ubuntu.svg" height="40"/>
+  <img src="https://www.cdnlogo.com/logos/v/69/vim.svg" height="40"/>
+  <img src="https://img.icons8.com/color/48/bash.png" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" height="40"/>
+</p>
+
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-icon.svg" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" height="40"/>
+  <img src="https://www.cdnlogo.com/logos/s/5/sonarsource.svg" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" height="40"/>
+</p>
+
+<p align="center">
+  <img src="https://www.cdnlogo.com/logos/p/3/python.svg" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" height="40"/>
+  <img src="https://www.cdnlogo.com/logos/j/44/javascript.svg" height="40"/>
+  <img src="https://www.cdnlogo.com/logos/c/18/css.svg" height="40"/>
+  <img src="https://www.cdnlogo.com/logos/b/74/bootstrap-5.svg" height="40"/>
+  <img src="https://www.cdnlogo.com/logos/r/63/react.svg" height="40"/>
+</p>
+
+<p align="center">
+  <img src="https://www.cdnlogo.com/logos/a/19/aws.svg" height="40"/>
+  <img src="https://www.cdnlogo.com/logos/a/12/azure.svg" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" height="40"/>
+  <img src="https://www.cdnlogo.com/logos/g/24/git-bash.svg" height="40"/>
+  <img src="https://www.cdnlogo.com/logos/s/91/spring.svg" height="40"/>
+  <img src="https://www.cdnlogo.com/logos/s/40/slack-new.svg" height="40"/>
+  <img src="https://www.cdnlogo.com/logos/j/28/jira.svg" height="40"/>
+</p>
+
+<p align="center">
+  <img src="https://www.cdnlogo.com/logos/a/67/adobe-illustrator-cc-icon.svg" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" height="40"/>
+  <img src="https://www.cdnlogo.com/logos/b/32/blender.svg" height="40"/>
+  <img src="https://www.cdnlogo.com/logos/m/99/maya-2017.svg" height="40"/>
+  <img src="https://www.cdnlogo.com/logos/f/43/figma.svg" height="40"/>
+  <img src="https://www.cdnlogo.com/logos/c/41/canva.svg" height="40"/>
+</p>
+
+---
+
+### 🛠️ Tools and Technologies
+
+<p align="center">
+  <img src="https://www.cdnlogo.com/logos/l/11/linux.svg" width="45" height="45"/>&nbsp;
+  <img src="https://www.cdnlogo.com/logos/u/89/ubuntu.svg" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/centos-1.svg" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/kali-linux.svg" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" width="45" height="45"/>
+</p>
+
+<p align="center">
+  <img src="https://www.cdnlogo.com/logos/j/44/javascript.svg" width="45" height="45"/>&nbsp;
+  <img src="https://www.cdnlogo.com/logos/p/3/python.svg" width="45" height="45"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="45" height="45"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="45" height="45"/>&nbsp;
+  <img src="https://www.cdnlogo.com/logos/c/18/css.svg" width="45" height="45"/>
+</p>
+
+<p align="center">
+  <img src="https://www.cdnlogo.com/logos/s/91/spring.svg" width="45" height="45"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" width="45" height="45"/>&nbsp;
+  <img src="https://www.cdnlogo.com/logos/b/74/bootstrap-5.svg" width="45" height="45"/>&nbsp;
+  <img src="https://www.cdnlogo.com/logos/r/63/react.svg" width="45" height="45"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" width="45" height="45"/>
+</p>
+
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/oracle-6.svg" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" width="45" height="45"/>
+</p>
+
+<p align="center">
+  <img src="https://www.cdnlogo.com/logos/a/19/aws.svg" width="45" height="45"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="45" height="45"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="45" height="45"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" width="45" height="45"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="45" height="45"/>
+</p>
+
+<p align="center">
+  <img src="https://www.cdnlogo.com/logos/b/32/blender.svg" width="45" height="45"/>&nbsp;
+  <img src="https://www.cdnlogo.com/logos/a/67/adobe-illustrator-cc-icon.svg" width="45" height="45"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" width="45" height="45"/>&nbsp;
+  <img src="https://www.cdnlogo.com/logos/f/43/figma.svg" width="45" height="45"/>&nbsp;
+  <img src="https://www.cdnlogo.com/logos/c/41/canva.svg" width="45" height="45"/>
+</p>
+
+<p align="center">
+  <img src="https://www.cdnlogo.com/logos/v/69/vim.svg" width="45" height="45"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/bash.png" width="45" height="45"/>&nbsp;
+  <img src="https://www.cdnlogo.com/logos/s/40/slack-new.svg" width="45" height="45"/>&nbsp;
+  <img src="https://www.cdnlogo.com/logos/j/28/jira.svg" width="45" height="45"/>
+</p>
 
 ---
 
