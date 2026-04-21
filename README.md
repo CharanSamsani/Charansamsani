@@ -46,7 +46,7 @@ I'm a 23-year-old DevOps enthusiast <img src="https://media.giphy.com/media/WUlp
     <img src="https://www.cdnlogo.com/logos/v/69/vim.svg" title="vim" alt="vim" width="40" height="40"/>&nbsp;
     <img src="https://img.icons8.com/color/48/bash.png" title="bash" alt="bash" width="45" height="45"/>&nbsp;
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
-  <div/>
+  </div>
      
   <div align="center">
     <img src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-icon.svg" title="tomcat" alt="tomcat" width="40" height="40"/>&nbsp;
@@ -58,7 +58,7 @@ I'm a 23-year-old DevOps enthusiast <img src="https://media.giphy.com/media/WUlp
     <img src="https://github.com/devicons/devicon/blob/930f0136d96f0a65c1de5278be875415d6fbe610/icons/kubernetes/kubernetes-plain.svg" title="k8s" alt="k8s" width="40" height="40"/>&nbsp
     <!--<img src="https://www.cdnlogo.com/logos/a/51/ansible.svg" title="ansible" alt="ansible" width="40" height="40"/>&nbsp;
     <img src="https://www.cdnlogo.com/logos/g/64/grafana.svg" title="grafana" alt="grafana" width="40" height="40"/>&nbsp -->
-  <div/>
+  </div>
     
   <div align="center"> 
     <!--<img src="https://github.com/devicons/devicon/blob/master/icons/groovy/groovy-original.svg" title="groovy" alt="groovy" width="50" height="50"/>&nbsp;
@@ -70,7 +70,7 @@ I'm a 23-year-old DevOps enthusiast <img src="https://media.giphy.com/media/WUlp
     <img src="https://www.cdnlogo.com/logos/c/18/css.svg" title="css" alt="css" width="40" height="40"/>&nbsp;
     <img src="https://www.cdnlogo.com/logos/b/74/bootstrap-5.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp; 
     <img src="https://www.cdnlogo.com/logos/r/63/react.svg" title="reactJS" alt="reactJS" width="40" height="40"/>&nbsp
-  <div/>
+  </div>
     
   <div align="center">
     <img src="https://www.cdnlogo.com/logos/a/19/aws.svg" title="aws" alt="aws" width="40" height="40"/>&nbsp;
@@ -80,7 +80,7 @@ I'm a 23-year-old DevOps enthusiast <img src="https://media.giphy.com/media/WUlp
     <img src="https://www.cdnlogo.com/logos/s/91/spring.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
     <img src="https://www.cdnlogo.com/logos/s/40/slack-new.svg" title="slack" alt="slack" width="40" height="40"/>&nbsp;
     <img src="https://www.cdnlogo.com/logos/j/28/jira.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
-  <div/>
+  </div>
     
   <div align="center">
     <img src="https://www.cdnlogo.com/logos/a/67/adobe-illustrator-cc-icon.svg" title="illustrator" alt="illustrator" width="40" height="40"/>&nbsp;
@@ -89,9 +89,9 @@ I'm a 23-year-old DevOps enthusiast <img src="https://media.giphy.com/media/WUlp
     <img src="https://www.cdnlogo.com/logos/m/99/maya-2017.svg" title="maya" alt="maya" width="36" height="36"/>&nbsp;
     <img src="https://www.cdnlogo.com/logos/f/43/figma.svg" title="figma" alt="figma" width="36" height="36"/>&nbsp;
     <img src="https://www.cdnlogo.com/logos/c/41/canva.svg" title="canva" alt="canva" width="38" height="38"/>&nbsp
-  <div/>
+  </div>div>
     
-<div/>
+</div>
 
 ---
 
@@ -106,13 +106,3 @@ I'm a 23-year-old DevOps enthusiast <img src="https://media.giphy.com/media/WUlp
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharanSamsani&layout=compact&theme=vision-friendly-dark&width=600)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/charansamsani.cye.png" alt="Your Image Badge" />
-
-
-
-
-
-
-
-
-
-
