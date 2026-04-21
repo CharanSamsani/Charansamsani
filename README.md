@@ -23,16 +23,56 @@
 
 ### 👨‍💻 About Me :
 
-I'm a 23-year-old DevOps enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> from Hyderabad. I eagerly await on entering the world 🌏 of DEVOPS. 
+I'm a **24-year-old** Java Backend & DevOps enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> from Hyderabad. I am passionate about building scalable server-side applications and streamlining their deployment.
 
-- :telescope: I'm practicing AWS DevOps and contributing to my small projects. You can see them right below, all the repos are public except for some personal ones 😏.
+- :telescope: I’m currently focused on mastering the **Spring Boot ecosystem** and integrating **AWS DevOps** workflows into my projects. 
   
-- :seedling: Exploring the world of ♾️ DEVOPS.
+- :seedling: Deep diving into **Microservices architecture**, **RESTful APIs**, and **Database Optimization**.
  
-- :zap: In my free time, I solve problems on HackerRank  <img src= "https://hrcdn.net/fcore/assets/work/header/hackerrank_logo-21e2867566.svg" width="15px"/>  and doodle some illustarions either 3D or 2D. Sometimes I feel too lazy even to move, so I will read some tech articles.
+- :zap: In my free time, I sharpen my logic on HackerRank <img src="https://hrcdn.net/fcore/assets/work/header/hackerrank_logo-21e2867566.svg" width="15px"/>, and doodle with 2D/3D illustrations, or read tech articles when I'm feeling a bit lazy.
  
-- :mailbox: You guys can reach me through my website 👉[<img src="https://img.icons8.com/fluency/48/domain.png" width="40"/>](https://charansamsani.github.io/)👈
-  <!--[![Linkedin Badge](https://img.shields.io/badge/-Charan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/charan-s-045854194/)-->
+- :mailbox: You can reach me through my website 👉 [<img src="https://img.icons8.com/fluency/48/domain.png" width="40"/>](https://charansamsani.github.io/) 👈
+
+<!--[![Linkedin Badge](https://img.shields.io/badge/-Charan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/charan-s-045854194/)-->
+
+---
+
+### 🛠️ Tools and Languages :
+
+<div align="center">
+  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="java" alt="java" width="40" height="40"/>&nbsp;
+  <img src="https://www.cdnlogo.com/logos/s/91/spring.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" title="maven" alt="maven" width="40" height="40"/>&nbsp;
+</div>
+
+<div align="center">
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" title="docker" alt="docker" width="45" height="45"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/930f0136d96f0a65c1de5278be875415d6fbe610/icons/kubernetes/kubernetes-plain.svg" title="k8s" alt="k8s" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp;
+</div>
+
+<div align="center">
+  <img src="https://www.cdnlogo.com/logos/a/19/aws.svg" title="aws" alt="aws" width="40" height="40"/>&nbsp;
+  <img src="https://www.cdnlogo.com/logos/l/11/linux.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://www.cdnlogo.com/logos/u/89/ubuntu.svg" title="ubuntu" alt="ubuntu" width="40" height="40"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/bash.png" title="bash" alt="bash" width="45" height="45"/>&nbsp;
+</div>
+
+<div align="center">
+  <img src="https://www.cdnlogo.com/logos/p/3/python.svg" title="python" alt="python" width="38" height="38"/>&nbsp;
+  <img src="https://www.cdnlogo.com/logos/r/63/react.svg" title="reactJS" alt="reactJS" width="40" height="40"/>&nbsp;
+  <img src="https://www.cdnlogo.com/logos/j/44/javascript.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" title="nginx" alt="nginx" width="40" height="40"/>&nbsp;
+</div>
+
+<div align="center">
+  <img src="https://www.cdnlogo.com/logos/a/67/adobe-illustrator-cc-icon.svg" title="illustrator" alt="illustrator" width="40" height="40"/>&nbsp;
+  <img src="https://www.cdnlogo.com/logos/b/32/blender.svg" title="blender" alt="blender" width="40" height="40"/>&nbsp;
+  <img src="https://www.cdnlogo.com/logos/f/43/figma.svg" title="figma" alt="figma" width="36" height="36"/>&nbsp;
+  <img src="https://www.cdnlogo.com/logos/c/41/canva.svg" title="canva" alt="canva" width="38" height="38"/>&nbsp;
+</div>
 
 ---
 
