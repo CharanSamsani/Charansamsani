@@ -37,7 +37,7 @@ I'm a **24-year-old** Java Backend & DevOps enthusiast <img src="https://media.g
 
 ---
 
-### 🛠️ Tools and Languages : 
+<!-- ### 🛠️ Tools and Languages : 
 
 <p align="center">
   <img src="https://www.cdnlogo.com/logos/l/11/linux.svg" height="40"/>
@@ -86,64 +86,67 @@ I'm a **24-year-old** Java Backend & DevOps enthusiast <img src="https://media.g
   <img src="https://www.cdnlogo.com/logos/c/41/canva.svg" height="40"/>
 </p>
 
----
+--- -->
 
-### 🛠️ Tools and Technologies
+### 🛠️ Tools and Technologies :
 
-<p align="center">
-  <img src="https://www.cdnlogo.com/logos/l/11/linux.svg" width="45" height="45"/>&nbsp;
-  <img src="https://www.cdnlogo.com/logos/u/89/ubuntu.svg" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/centos-1.svg" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/kali-linux.svg" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" width="45" height="45"/>
-</p>
+<table align="center">
+  <tr>
+    <td><img src="https://www.cdnlogo.com/logos/l/11/linux.svg" width="45" height="45"/></td>
+    <td><img src="https://www.cdnlogo.com/logos/u/89/ubuntu.svg" width="45" height="45"/></td>
+    <td><img src="https://cdn.worldvectorlogo.com/logos/centos-1.svg" width="45" height="45"/></td>
+    <td><img src="https://static.cdnlogo.com/logos/k/94/kali_800.png" width="45" height="45"/></td>
+    <td><img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" width="45" height="45"/></td>
+  </tr>
 
-<p align="center">
-  <img src="https://www.cdnlogo.com/logos/j/44/javascript.svg" width="45" height="45"/>&nbsp;
-  <img src="https://www.cdnlogo.com/logos/p/3/python.svg" width="45" height="45"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="45" height="45"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="45" height="45"/>&nbsp;
-  <img src="https://www.cdnlogo.com/logos/c/18/css.svg" width="45" height="45"/>
-</p>
+  <tr>
+    <td><img src="https://www.cdnlogo.com/logos/j/44/javascript.svg" width="45" height="45"/></td>
+    <td><img src="https://www.cdnlogo.com/logos/p/3/python.svg" width="45" height="45"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="45" height="45"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="45" height="45"/></td>
+    <td><img src="https://www.cdnlogo.com/logos/c/18/css.svg" width="45" height="45"/></td>
+  </tr>
 
-<p align="center">
-  <img src="https://www.cdnlogo.com/logos/s/91/spring.svg" width="45" height="45"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" width="45" height="45"/>&nbsp;
-  <img src="https://www.cdnlogo.com/logos/b/74/bootstrap-5.svg" width="45" height="45"/>&nbsp;
-  <img src="https://www.cdnlogo.com/logos/r/63/react.svg" width="45" height="45"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" width="45" height="45"/>
-</p>
+  <tr>
+    <td><img src="https://www.cdnlogo.com/logos/s/91/spring.svg" width="45" height="45"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" width="45" height="45"/></td>
+    <td><img src="https://www.cdnlogo.com/logos/b/74/bootstrap-5.svg" width="45" height="45"/></td>
+    <td><img src="https://www.cdnlogo.com/logos/r/63/react.svg" width="45" height="45"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" width="45" height="45"/></td>
+  </tr>
 
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/oracle-6.svg" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" width="45" height="45"/>
-</p>
+  <tr>
+    <td><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="45" height="45"/></td>
+    <td><img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width="45" height="45"/></td>
+    <td><img src="https://static.cdnlogo.com/logos/o/42/oracle-corporation.svg" width="45" height="45"/></td>
+    <td><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="45" height="45"/></td>
+    <td><img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" width="45" height="45"/></td>
+  </tr>
 
-<p align="center">
-  <img src="https://www.cdnlogo.com/logos/a/19/aws.svg" width="45" height="45"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="45" height="45"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" width="45" height="45"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="45" height="45"/>
-</p>
+  <tr>
+    <td><img src="https://www.cdnlogo.com/logos/a/19/aws.svg" width="45" height="45"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="45" height="45"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="45" height="45"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" width="45" height="45"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="45" height="45"/></td>
+  </tr>
 
-<p align="center">
-  <img src="https://www.cdnlogo.com/logos/b/32/blender.svg" width="45" height="45"/>&nbsp;
-  <img src="https://www.cdnlogo.com/logos/a/67/adobe-illustrator-cc-icon.svg" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" width="45" height="45"/>&nbsp;
-  <img src="https://www.cdnlogo.com/logos/f/43/figma.svg" width="45" height="45"/>&nbsp;
-  <img src="https://www.cdnlogo.com/logos/c/41/canva.svg" width="45" height="45"/>
-</p>
+  <tr>
+    <td><img src="https://www.cdnlogo.com/logos/b/32/blender.svg" width="45" height="45"/></td>
+    <td><img src="https://www.cdnlogo.com/logos/a/67/adobe-illustrator-cc-icon.svg" width="45" height="45"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" width="45" height="45"/></td>
+    <td><img src="https://www.cdnlogo.com/logos/f/43/figma.svg" width="45" height="45"/></td>
+    <td><img src="https://www.cdnlogo.com/logos/c/41/canva.svg" width="45" height="45"/></td>
+  </tr>
 
-<p align="center">
-  <img src="https://www.cdnlogo.com/logos/v/69/vim.svg" width="45" height="45"/>&nbsp;
-  <img src="https://img.icons8.com/color/48/bash.png" width="45" height="45"/>&nbsp;
-  <img src="https://www.cdnlogo.com/logos/s/40/slack-new.svg" width="45" height="45"/>&nbsp;
-  <img src="https://www.cdnlogo.com/logos/j/28/jira.svg" width="45" height="45"/>
-</p>
+  <tr>
+    <td><img src="https://www.cdnlogo.com/logos/v/69/vim.svg" width="45" height="45"/></td>
+    <td><img src="https://img.icons8.com/color/48/bash.png" width="45" height="45"/></td>
+    <td><img src="https://www.cdnlogo.com/logos/g/24/git-bash.svg" width="45" height="45"/></td>
+    <td><img src="https://www.cdnlogo.com/logos/s/40/slack-new.svg" width="45" height="45"/></td>
+    <td><img src="https://www.cdnlogo.com/logos/j/28/jira.svg" width="45" height="45"/></td>
+  </tr>
+</table>
 
 ---
 
