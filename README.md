@@ -124,7 +124,7 @@ I'm a **24-year-old** Java Backend & DevOps enthusiast <img src="https://media.g
     <img src="https://www.cdnlogo.com/logos/m/99/maya-2017.svg" title="maya" alt="maya" width="36" height="36"/>&nbsp;
     <img src="https://www.cdnlogo.com/logos/f/43/figma.svg" title="figma" alt="figma" width="36" height="36"/>&nbsp;
     <img src="https://www.cdnlogo.com/logos/c/41/canva.svg" title="canva" alt="canva" width="38" height="38"/>&nbsp
-  </div>div>
+  </div>
     
 </div>
 
@@ -136,8 +136,11 @@ I'm a **24-year-old** Java Backend & DevOps enthusiast <img src="https://media.g
 
 </div>
 
+<div align="center">
+  
 [![GitHub Streak](https://github-readme-streak-stats-livid-eight.vercel.app?user=CharanSamsani&theme=carbonfox&border_radius=10&card_width=600&fire=EB5454&ring=EB5454)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharanSamsani&layout=compact&theme=vision-friendly-dark&width=600)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/charansamsani.cye.png" alt="Your Image Badge" />
+</div>
