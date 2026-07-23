@@ -23,7 +23,7 @@
 
 ### 👨‍💻 About Me :
 
-I'm a **24-year-old** Java Backend & DevOps enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> from Hyderabad. I am passionate about building scalable server-side applications and streamlining their deployment.
+I'm a DevOps enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> from Hyderabad. I am passionate about building scalable server-side applications and streamlining their deployment.
 
 - :telescope: I’m currently focused on mastering the **Spring Boot ecosystem** and integrating **AWS DevOps** workflows into my projects. 
   
